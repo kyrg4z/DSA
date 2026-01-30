@@ -33,12 +33,14 @@ Leetcode practice
 ## String
 |  |
 | ------- |
+| [0345-reverse-vowels-of-a-string](https://github.com/N1ghtH0wk/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/N1ghtH0wk/DSA/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1894-merge-strings-alternately](https://github.com/N1ghtH0wk/DSA/tree/master/1894-merge-strings-alternately) |
 ## Two Pointers
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/N1ghtH0wk/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0345-reverse-vowels-of-a-string](https://github.com/N1ghtH0wk/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [1894-merge-strings-alternately](https://github.com/N1ghtH0wk/DSA/tree/master/1894-merge-strings-alternately) |
 ## Greedy
 |  |
