@@ -35,6 +35,7 @@ Leetcode practice
 ## String
 |  |
 | ------- |
+| [0151-reverse-words-in-a-string](https://github.com/N1ghtH0wk/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/N1ghtH0wk/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/N1ghtH0wk/DSA/tree/master/0392-is-subsequence) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/N1ghtH0wk/DSA/tree/master/1146-greatest-common-divisor-of-strings) |
@@ -43,6 +44,7 @@ Leetcode practice
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/N1ghtH0wk/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0151-reverse-words-in-a-string](https://github.com/N1ghtH0wk/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/N1ghtH0wk/DSA/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/N1ghtH0wk/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/N1ghtH0wk/DSA/tree/master/0392-is-subsequence) |
