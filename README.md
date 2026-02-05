@@ -10,6 +10,7 @@ Leetcode practice
 | [0026-remove-duplicates-from-sorted-array](https://github.com/N1ghtH0wk/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/N1ghtH0wk/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0283-move-zeroes](https://github.com/N1ghtH0wk/DSA/tree/master/0283-move-zeroes) |
+| [0334-increasing-triplet-subsequence](https://github.com/N1ghtH0wk/DSA/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/N1ghtH0wk/DSA/tree/master/0605-can-place-flowers) |
 | [0978-valid-mountain-array](https://github.com/N1ghtH0wk/DSA/tree/master/0978-valid-mountain-array) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/N1ghtH0wk/DSA/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
@@ -52,5 +53,6 @@ Leetcode practice
 ## Greedy
 |  |
 | ------- |
+| [0334-increasing-triplet-subsequence](https://github.com/N1ghtH0wk/DSA/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/N1ghtH0wk/DSA/tree/master/0605-can-place-flowers) |
 <!---LeetCode Topics End-->
