@@ -9,6 +9,7 @@ Leetcode practice
 | [0001-two-sum](https://github.com/N1ghtH0wk/DSA/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/N1ghtH0wk/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/N1ghtH0wk/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0238-product-of-array-except-self](https://github.com/N1ghtH0wk/DSA/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/N1ghtH0wk/DSA/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/N1ghtH0wk/DSA/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/N1ghtH0wk/DSA/tree/master/0605-can-place-flowers) |
@@ -55,4 +56,8 @@ Leetcode practice
 | ------- |
 | [0334-increasing-triplet-subsequence](https://github.com/N1ghtH0wk/DSA/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/N1ghtH0wk/DSA/tree/master/0605-can-place-flowers) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/N1ghtH0wk/DSA/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
